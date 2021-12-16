@@ -197,7 +197,7 @@ Arbaic - PC keyboard
 
 - You should be in a breakout room.
 - Down the hall to the left.
-- Sunday
+- Sunday = ahad
 - Monday
 - Tuesdayday
 - Wednesday
